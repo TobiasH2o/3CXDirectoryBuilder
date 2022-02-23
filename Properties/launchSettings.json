@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Phone-book Formatter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\tobias.heatlie\\Desktop\\extension.csv"
+    }
+  }
+}
